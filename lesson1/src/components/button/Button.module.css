@@ -1,0 +1,16 @@
+.button {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.default {
+    background-color: grey;
+}
+
+.error {
+    background-color: red;
+}
+
+.confirm {
+    background-color: green;
+}
